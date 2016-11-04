@@ -1,0 +1,12 @@
+﻿{
+  "ID": "52f994a0f8b711e5a8370800200c9a88", 
+  "ActionKeyword": "temp",
+  "Name": "Core Temperature",
+  "Description": "Plugin that shows system's core temperature",
+  "Author": "seza443",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/seza443/Wox.Plugin.SystemTemp",
+  "IcoPath": "Images\\Typicons_e101(0)_64.png",
+  "ExecuteFileName": "Wox.Plugin.SystemTemp.dll"
+}
